@@ -290,12 +290,12 @@ The platform focuses on both sides of the recruitment ecosystem:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Kalambodaniel143&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Kalambodaniel143&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
     height="180"
   />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalambodaniel143&layout=compact&theme=radical&hide_border=true"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalambodaniel143&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
  height="180"
 />
 
@@ -391,7 +391,7 @@ Computer Science, Software Engineering, Systems & Projects
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kalambo-daniel-5b3163331/">
+<a href="https://www.linkedin.com/in/kalambo-daniel-5b3163331/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
