@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm KALAMBO Daniel Dany 👋</h1>
 
 <h3 align="center">
-  AI Student | Software Engineer | Robotics & Autonomous Systems Enthusiast
+  AI Student | Software Engineer | Robotics &Autonomous Systems Enthusiast | Devops
 </h3>
 
 <p align="center">
@@ -50,9 +50,9 @@ My interests lie at the intersection of **AI, robotics, autonomous systems, soft
 |---|---|
 | 🇫🇷 French | Fluent |
 | 🇬🇧 English | B2 |
-| 🇨🇩 Swahili | Fluent |
 
-**⚡ Beyond Code:** 📚 Reading · ✈️ Traveling · 🏋️ Sports & Running · 🤖 Robotics
+
+**⚡ Beyond Code:** 📚 Reading · ✈️ Traveling · 🏋️ Sports & Running
 
 ---
 
@@ -78,7 +78,7 @@ Artificial Intelligence → Machine Learning → Autonomous Systems → Robotics
 |---|---|---|
 | 🧠 **My_Torch** | Neural network built from scratch, no external ML libraries | `Python` `Neural Networks` |
 | 🎮 **Gomoku AI** | AI player making real-time strategic decisions | `C++` `Game Theory` |
-| ⚙️ **Whanos** | CI/CD platform: `git push` → automated Kubernetes deployment | `Docker` `Kubernetes` `Ansible` `Helm` |
+| ⚙️ **Whanos** | CI/CD platform: `git push` → automated Kubernetes deployment | `Docker` `Kubernetes` `Ansible` |
 | 🤖 **Autonomous Waste-Sorting Robot** | Perception, decision-making & autonomous movement — Tekbot Robotics Challenge | `ROS` `C++` `Python` |
 | 💼 **Aptely** | Recruitment & talent platform (CV improvement, opportunity matching, candidate screening) | `Next.js` `Express.js` `PostgreSQL` `Supabase` |
 
