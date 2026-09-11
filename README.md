@@ -63,23 +63,13 @@ class Daniel:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kalambodaniel143&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalambodaniel143&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/>
+[![Followers](https://img.shields.io/github/followers/Kalambodaniel143?style=for-the-badge&logo=github&color=8A2BE2&label=Followers)](https://github.com/Kalambodaniel143?tab=followers)
+[![Gomoku stars](https://img.shields.io/github/stars/Kalambodaniel143/gomoku?style=for-the-badge&color=8A2BE2&label=Gomoku%20%E2%98%85)](https://github.com/Kalambodaniel143/gomoku)
+[![My_Torch stars](https://img.shields.io/github/stars/Kalambodaniel143/my_torch?style=for-the-badge&color=8A2BE2&label=My_Torch%20%E2%98%85)](https://github.com/Kalambodaniel143/my_torch)
+[![Whanos stars](https://img.shields.io/github/stars/Kalambodaniel143/whanos?style=for-the-badge&color=8A2BE2&label=Whanos%20%E2%98%85)](https://github.com/Kalambodaniel143/whanos)
 
-<img src="https://streak-stats.demolab.com/?user=Kalambodaniel143&theme=radical"/>
+📈 See my full contribution activity directly on my [GitHub profile](https://github.com/Kalambodaniel143).
 
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalambodaniel143&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kalambodaniel143&theme=radical&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
