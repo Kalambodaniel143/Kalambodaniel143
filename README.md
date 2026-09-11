@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Daniel Dany KALAMBO 👋</h1>
+<h1 align="center">Hi there, I'm  KALAMBO Daniel Dany 👋</h1>
 
 <h3 align="center">
   AI Student | Software Engineer | Robotics & Autonomous Systems Enthusiast
@@ -103,23 +103,11 @@ Burkina Faso and Madagascar**.
 
 ## 🏆 Achievements
 
-<p align="center">
 
-🥉 <strong>Bronze Medal — Tekbot Robotics Challenge 2025</strong>
-
-<br><br>
-
-🤖 <strong>Developed an Autonomous Waste-Sorting Robot</strong>
-
-<br><br>
-
-🧠 <strong>Built Neural Networks From Scratch</strong>
-
-<br><br>
-
-⚙️ <strong>Built a Complete CI/CD & Kubernetes Deployment Platform</strong>
-
-</p>
+* 🥉 <strong>Bronze Medal — Tekbot Robotics Challenge 2025</strong>
+* 🤖 <strong>Developed an Autonomous Waste-Sorting Robot</strong>
+* 🧠 <strong>Built Neural Networks From Scratch</strong>
+* ⚙️ <strong>Built a Complete CI/CD & Kubernetes Deployment Platform</strong>
 
 ---
 
